@@ -23,7 +23,6 @@
     *Returns a boolean
 * Endpoint: 'docs'
     *Returns JSDoc documentation pages
-*
   
 #### Tests
 * Unit Tests: 'npm test'
